@@ -2,7 +2,9 @@
 I'm delighted to share my very first post on this platform as i progress with my learning as a Data analyst @VephlaUni. I built this dashboard to explore global salary trends across experience levels, job roles, company sizes and regions.
 
 PROJECT SPLIT
+
 Category One (independent value) 
+
 Experience_Level 
 Employment_Type
 Job_Title
@@ -10,21 +12,26 @@ Company_Location
 Company_Size
 
 Category two (dependent value)
+
 Salary_in_usd
 
 INDUSTRY TYPE
+
 Workforce Analytics
                                                                         
 STORY OF DATA
+
 This dataset captures a global view of employees salaries and work structures. It combines details about how people work (employment type, remote ratio), what they do (job titles), where they live and work (residence vs company location), and organizational characteristics (company size).
 
 DATA VISUALIZATION AND CHARTS
+
 Coulumn chart comparing company size by salary, and job title by salary
 A layered bar chart showing Entry, Mid, Senior, and Executive salary progression.
 Pie chart showing salary gap in portion.
 map chart signifying salary range.
 
 IN ANALYSIS- OBSERVATION
+
 This dataset captures a global view of employees salaries and work structures. It combines details about how people work (employment type, remote ratio), what they do (job titles), where they live and work (residence vs company location), and organizational characteristics (company size).
 
 Company Size:
@@ -85,6 +92,7 @@ Mid Level:
 The average mid-level salary is $104,526, about 33% higher than entry-level roles, showing steady career progression. Full-time staff earn slightly above average, while freelancers and part-time workers earn less than half indicating companies reward long-term, stable roles at this stage. Company M remains the primary contributor to mid-level salaries. Data Engineers earn the most, followed by Data Analysts and Data Scientists, while ML Engineers earn the least due to fewer roles at this level.
 
 CONCLUSION
+
 The findings show that salaries in data careers rise steadily with experience, with the highest pay at senior and executive levels, highlighting the strong value placed on expertise and leadership. Medium-sized companies consistently offer the highest total salary contributions, while full-time employees earn more than contract, freelance, and part-time workers 
 
 Data Engineers are the highest-paid roles across all experience levels due to their critical role in data infrastructure, followed by Data Scientists, while ML Engineers represent a smaller but high-growth segment. Significant regional salary disparities exist, with countries like the US, Israel, and Canada offering the most competitive pay due to advanced tech ecosystems.
