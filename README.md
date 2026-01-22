@@ -1,4 +1,7 @@
+<img width="1027" height="460" alt="ds salaries screenshot" src="https://github.com/user-attachments/assets/f96daa88-3fad-44c4-9334-d76cc3c6614b" />
+
 # My-first-project
+
 I'm delighted to share my very first post on this platform as i progress with my learning as a Data analyst @VephlaUni. I built this dashboard to explore global salary trends across experience levels, job roles, company sizes and regions.
 
 PROJECT SPLIT
