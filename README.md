@@ -85,14 +85,7 @@ Data Engineers earn the highest salary totals across all levels, followed by Dat
 
 GENERAL RECOMMENDATIONS/INSIGHTS
 
-Entry Level:
-The average salary is $78,546, with full-time staff earning slightly above this benchmark. Freelancers and contract staff earn near the average, while part-time workers earn significantly less. Company M leads salary spending, far ahead of Companies L and S. Across entry-level roles, Data Engineers earn the highest total salaries, indicating strong demand even at junior levels, while ML Engineers represent the smallest share due to fewer entry level positions.
-
-Executive Level:
-Executive salaries average $194,931, showing a large jump from mid-level roles. Pay is nearly equal for contract and full-time executives, suggesting standardized compensation at leadership levels. Company M again dominates in total executive salary payouts. Data Engineers surprisingly lead executive salary totals, reflecting high value placed on senior engineering leadership.
-
-Mid Level:
-The average mid-level salary is $104,526, about 33% higher than entry-level roles, showing steady career progression. Full-time staff earn slightly above average, while freelancers and part-time workers earn less than half indicating companies reward long-term, stable roles at this stage. Company M remains the primary contributor to mid-level salaries. Data Engineers earn the most, followed by Data Analysts and Data Scientists, while ML Engineers earn the least due to fewer roles at this level.
+Organizations should promote clear career progression to retain talent as salaries rise significantly at senior levels. Medium-sized companies can continue leveraging competitive pay to attract skilled professionals, while larger firms may need to reassess compensation strategies. Full-time roles should remain a priority for core data functions, and greater investment should be placed in high-value roles such as Data Engineers. Finally, region-specific pay strategies and continuous skill development at entry and mid levels can help organizations remain competitive and build sustainable data teams.
 
 CONCLUSION
 
