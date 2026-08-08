@@ -7,7 +7,7 @@ I'm delighted to share my very first post on this platform as i progress with my
 **INTRODUCTION**
 
 This project focuses on analyzing global salary trends within the data industry using workforce analytics and data visualization techniques. The dashboard explores how factors such as experience level, employment type, job title, company size, and geographical location influence salary distribution across different regions.
-The analysis provides valuable insights into workforce compensation patterns, career progression, and regional pay differences while demonstrating practical skills in data cleaning, preprocessing, visualization, and dashboard creation using Excel.
+The analysis provides valuable insights into workforce compensation patterns, career progression, and regional pay differences while demonstrating practical skills in data cleaning, preprocessing, visualization, and dashboard creation using Excel and Power BI.
 
 Sorting and filtering were used to identify top regions, roles, and salary categories. Conditional formatting highlighted important trends and comparisons in the data.
 Calculated fields supported deeper analysis by producing average salaries, workforce distribution percentages, and regional comparisons.
